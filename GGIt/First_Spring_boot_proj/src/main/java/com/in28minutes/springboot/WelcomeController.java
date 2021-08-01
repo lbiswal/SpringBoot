@@ -8,6 +8,13 @@ import com.in28minutes.springboot.service.*;
 
 @RestController
 public class WelcomeController {
+
+
+
+
+
+
+
 	//Auto wiring
 		@Autowired
 		private WelcomeService service;
